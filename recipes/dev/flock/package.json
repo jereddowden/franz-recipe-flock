@@ -1,0 +1,13 @@
+{
+  "id": "flock",
+  "name": "Flock",
+  "version": "1.0.0",
+  "description": "Flock",
+  "main": "index.js",
+  "author": "Jered Dowden <jereddowden@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://web.flock.com",
+    "hasNotificationSound": true
+  }
+}
